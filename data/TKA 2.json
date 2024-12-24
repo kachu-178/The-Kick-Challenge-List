@@ -9,10 +9,16 @@
     "password": "46290",
     "records": [
         {
+            "user": "NoisenMC",
+            "link": "https://www.amazon.com/Black-Lacquer-Ribbon-Blindfold-Health/dp/B07HSY6FT6",
+            "percent": 100,
+            "hz": 60
+        },
+        {
             "user": "Therealfive",
-            "link": "https://youtu.be/rF3ddNRDMD4",
+            "link": "https://youtu.be/wy9-wCumuso",
             "percent": 100,
             "hz": 60
         }
     ]
-}            
+}
