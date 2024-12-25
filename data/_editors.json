@@ -1,7 +1,7 @@
 [
     {
         "role": "owner",
-        "name": "kachu_178",
+        "name": "kachu178",
         "link": "https://www.youtube.com/@Kachu178MusicOfficial"
     },
     {
@@ -11,17 +11,17 @@
     },
     {
         "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com"
-    },
-    {
-        "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com"
+        "name": "Therealfive",
+        "link": "https://www.youtube.com/@Therealfive-k3h"
     },
     {
         "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com"
+        "name": "kachu178",
+        "link": "https://www.youtube.com/@Kachu178MusicOfficial"
+    },
+    {
+        "role": "dev",
+        "name": "TheReilLobim",
+        "link": "https://www.youtube.com/channel/UCNNwa6ViMtgqAjtU3-hDt3w"
     }
 ]
