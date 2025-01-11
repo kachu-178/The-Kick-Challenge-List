@@ -103,13 +103,10 @@ export default {
                         Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        Have either source audio or clicks/taps in the video. 
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
-                    </p>
-                    <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
+                        If you cant record your clicks, you must use a cheat indicator in QOLmod or MegaHack
                     </p>
                     <p>
                         The recording must also show the player hit the endwall, or the completion will be invalidated.
