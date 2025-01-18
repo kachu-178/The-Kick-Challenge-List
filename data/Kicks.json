@@ -8,5 +8,12 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
-     ]
+        {
+            "user": "Gosdas",
+            "link": "https://www.youtube.com/watch?v=1R-u1Lz1ryA",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
 }
+     
